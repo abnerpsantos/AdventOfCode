@@ -1,0 +1,1 @@
+function day15PartOne() {}
