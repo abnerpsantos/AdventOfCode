@@ -1,1 +1,1 @@
-function day2PartTwo() {}
+export function day2PartTwo() {}
