@@ -11,7 +11,7 @@ The Elves don't want to interrupt the crane operator during this delicate proced
 They do, however, have a drawing of the starting stacks of crates and the rearrangement procedure (your puzzle input). For example:
 
 ```text
-[D]    
+    [D]    
 [N] [C]
 [Z] [M] [P]
  1   2   3
