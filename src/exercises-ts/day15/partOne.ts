@@ -1,1 +1,1 @@
-function day15PartOne() {}
+export async function day15PartOne() {}
